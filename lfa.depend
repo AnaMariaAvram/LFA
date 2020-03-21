@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584798879 source:c:\users\avram\desktop\lfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
